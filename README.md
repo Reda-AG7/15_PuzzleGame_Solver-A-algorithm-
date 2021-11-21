@@ -1,4 +1,4 @@
-# 15_PuzzleGame_Solver-A-algorithm-
+# 15_PuzzleGame Solver A* algorithm in C
 ### This problem uses A* Algorithm search to find the best path to the goal state 
 ### Result :
 
